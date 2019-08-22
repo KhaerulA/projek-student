@@ -1,0 +1,42 @@
+PROD-APP: 13.228.66.230
+
+pass : Unirama32618Optima
+
+
+
+
+untuk toad
+PROD-DB: 52.77.2.112
+
+pass : Optima32618Unirama / UniramaOracleRamaedge!!
+
+Password sysadmin : R4m43dg3123
+
+Password apps : R4m43dg3123
+
+nanti login lalu sudo su - applprod
+
+
+RP.Sales..Staff.Jati Bening.Jakarta
+
+ORG_ID=:$PROFILES$.ORG_ID
+
+Group.Klaim..Staff.Sunter.Jakarta
+
+RP PR Office PIC Office H01
+RP INV ATK H01
+
+
+QP_INTERFACE_PRICING_ATTRIBS
+
+GIAN PONDOK CABE
+PT.UNIRAMA DUTA NIAGA
+
+  
+
+HOA
+UG...ths
+
+UDN_PIUTANG_PERNOTA
+
+XODI_GL_SLA_TRIAL_BALANCE_DETAIL
